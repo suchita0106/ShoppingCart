@@ -1,0 +1,3 @@
+[submodule "productservice"]
+	path = productservice
+	url = git@github.com:suchita0106/productservice.git
