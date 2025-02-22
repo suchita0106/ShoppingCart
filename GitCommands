@@ -1,0 +1,6 @@
+Git commands:
+cd ShoppingCart
+git submodule add <repository-url> productservice
+git add .gitmodules productservice
+git commit -m "Added productservice as a submodule"
+git push origin main
